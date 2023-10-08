@@ -5,7 +5,8 @@ html {
   height: 100%; }
 
 body {
-  background-color: #ffffff;
+    background-image: url(../img/anh bia dai hoc fpt.png);
+  background-color:#fffff
   color: #7e8ba3;
   font: 300 1rem/1.5 Helvetica Neue, sans-serif;
   margin: 0;
